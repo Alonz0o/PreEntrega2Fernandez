@@ -1,0 +1,12 @@
+header {
+    display: flexbox;
+    align-items: unsafe;
+    justify-content: first baseline;
+    border-bottom: 3px solid rgb(238, 230, 230);
+}
+
+li {
+    display: inline-block;
+    margin: 0.2rem;
+    cursor: pointer;
+}
